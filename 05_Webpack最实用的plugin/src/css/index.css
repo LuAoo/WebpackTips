@@ -1,0 +1,21 @@
+
+@import '../font/iconfont.css';
+
+.content {
+  color: #12345678;
+}
+
+:fullscreen {}
+
+.content {
+  user-select: none;
+  transition: all 2s ease;
+}
+
+.imgbg {
+  background-image: url('../img/pg2.png');
+  display: inline-block;
+  background-size: contain;
+}
+
+ 

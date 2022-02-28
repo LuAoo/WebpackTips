@@ -1,0 +1,1 @@
+(()=>{var o={411:o=>{o.exports={mul:(o,r)=>o-r}}},r={};function t(e){var s=r[e];if(void 0!==s)return s.exports;var n=r[e]={exports:{}};return o[e](n,n.exports,t),n.exports}(()=>{"use strict";const{mul:o}=t(411);console.log(30),console.log(o(30,10))})()})();
